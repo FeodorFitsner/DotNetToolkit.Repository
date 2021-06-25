@@ -26,8 +26,8 @@ cache:
   - packages
   
 # scripts that run after cloning repository
-install:
-  - cmd: choco install dotnetcore-sdk --pre
+#install:
+#  - cmd: choco install dotnetcore-sdk --pre
 
 #---------------------------------#
 #       build configuration       #
